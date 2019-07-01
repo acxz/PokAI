@@ -1,0 +1,111 @@
+◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉
+
+                                      .::.
+                                     .;:**'            AMC
+                                     `                  0
+         .:XHHHHk.              db.   .;;.     dH  MX   0
+       oMMMMMMMMMMM       ~MM  dMMP :MMMMMR   MMM  MR      ~MRMN
+       QMMMMMb  "MMX       MMMMMMP !MX' :M~   MMM MMM  .oo. XMMM 'MMM
+         `MMMM.  )M> :X!Hk. MMMM   XMM.o"  .  MMMMMMM X?XMMM MMM>!MMP
+          'MMMb.dM! XM M'?M MMMMMX.`MMMMMMMM~ MM MMM XM `" MX MMXXMM
+           ~MMMMM~ XMM. .XM XM`"MMMb.~*?**~ .MMX M t MMbooMM XMMMMMP
+            ?MMM>  YMMMMMM! MM   `?MMRb.    `"""   !L"MMMMM XM IMMM
+             MMMX   "MMMM"  MM       ~%:           !Mh.""" dMI IMMP
+             'MMM.                                             IMX
+              ~M!M                                             IMP
+
+◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉
+
+             $$$$$$$\            $$\        $$$$$$\  $$$$$$\
+             $$  __$$\           $$ |      $$  __$$\ \_$$  _|
+             $$ |  $$ | $$$$$$\  $$ |  $$\ $$ /  $$ |  $$ |
+             $$$$$$$  |$$  __$$\ $$ | $$  |$$$$$$$$ |  $$ |
+             $$  ____/ $$ /  $$ |$$$$$$  / $$  __$$ |  $$ |
+             $$ |      $$ |  $$ |$$  _$$<  $$ |  $$ |  $$ |
+             $$ |      \$$$$$$  |$$ | \$$\ $$ |  $$ |$$$$$$\
+             \__|       \______/ \__|  \__|\__|  \__|\______|
+
+◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉
+
+Goal: "♫♫ I wanna be the very best ♫♫"
+
+◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉
+
+Things to tackle:
+
+- designing a trainer that knows the best move to use to win the battle
+- imperfect information (dont know the opponents moves/stats/team)
+- designing a trainer that knows how to design best moveset for a pokémon
+- designing a trainer that knows how to win with both a pikachu and a bulbasaur
+- designing a trainer that knows to pick better pokémon
+    (choosing a pikachu vs a pichu)
+- designing a trainer that knows how to design the best pokémon team instead of
+    just choosing a single pokémon vs another one
+
+◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉
+
+SubGoals:
+
+- best team design & play for every 6v6 team for every gen at every tier level
+- best team design & play for every 6v6 team for every gen at anything goes
+- best team design & play for every 6v6 team for 1st gen at anything goes
+    (best team)
+- best team design & play for any 6v6 team for 1st gen at anything goes
+- best play for any 6v6 team for 1st gen at anything goes
+- best team design & play for specific 6v6 team for 1st gen at anything goes
+    (team design)
+- best play for specific 6v6 team for 1st gen at anything goes
+- best team design & play for every 1v1 team for 1st gen at anything goes
+    (best pokémon)
+- best team design & play for any 1v1 team for 1st gen at anything goes
+- best play for any 1v1 team for 1st gen at anything goes
+- best team design & play for a specific 1v1 team for 1st gen at anything goes
+    (move design)
+- best play for a specific 1v1 team for 1st gen at anything goes
+    (move choice)
+- best play for a specific 1v1 team for 1st gen at anything goes
+    (fully observable) (move choice)
+
+◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉
+
+Previous work/research:
+
+- imperfect information
+- deep RL
+- AlphaZero Paper
+- previous attempts at pokémon battle bots
+
+◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉
+
+Cool things that are cool:
+
+- self play (allows more non-human strategies to surface)
+- learning without knowing the rules! (like did you ever read all pokémon rules?)
+- online training (basically super fast training on new input)
+  - understand that is p hard, but maybe a different training pipeline can be
+      used when trainer is playing vs practicing
+  - also benefit might be very low
+  - but just imagine trainer is in a battle and falls for a trick once, but
+      doesn't the next time the situation occurs or or during a tournament and
+      there is a certain meta going on, it learns to be anti meta
+- not just choosing the best move in the situation, but as a trainer knowing
+    which is a better pokémon team to have and knowing the best strategy for that
+    team vs another
+- like we could fix a moveset and find the best pokémon for it or fix a pokémon
+    and find the best moveset for it, but we want to find the best pokémon &
+    moveset combo!
+
+◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉
+
+Current Methodology:
+
+- logistics:
+  - look at interfacing with pokémon showdown to get a platform for doing
+    simulations/rollouts
+
+- algorithm (1st subgoal):
+  - some ideas
+
+◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉
+
+Pokémon And All Respective Names are Trademark & © of Nintendo 1996-2019
